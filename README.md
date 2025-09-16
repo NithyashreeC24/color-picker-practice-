@@ -8,9 +8,10 @@ It’s a practice project to understand **event handling** and **styling with CS
 - The selected color hex code is displayed.
 - Button background changes to match the selected color.
 
-## 🛠Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-
+## Demo video
+![color picker demo](color-picker-demo.gif)
