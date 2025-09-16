@@ -15,4 +15,4 @@ It’s a practice project to understand **event handling** and **styling with CS
 
 ## Demo video
 quick demonstration of the Color Picker 
-![color picker demo](color-picker-demo.gif)
+![color picker demo](color-picker-demo.gif.gif)
